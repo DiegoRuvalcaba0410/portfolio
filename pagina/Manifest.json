@@ -1,0 +1,16 @@
+"name": "Melodyan Music",
+"short_name": "Cursos",
+"theme_color": "#ffe08a",
+"background_color": "#ffe08a",
+"display": "standalone",
+"orientation": "portrait",
+"scope": "./",
+"start_url": "./",
+"icons": [
+	
+	{
+		"src": "./imagenes/icono.jpg",
+		"type": "image/jpg",
+		"sizes": "512x512"
+	}
+]
